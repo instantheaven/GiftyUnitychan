@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - DamageObject
+  - Ground
+  - money10000
+  - money5000
+  - money1000
+  - money500
+  - money100
+  - money10
+  - moneys
+  - ClearPoint
+  - AudioObject
+  - StartVoice
+  - BGM
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Player
+  - Background
+  - PostProcessing
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 1359455501
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Coin
+    uniqueID: 3534837493
+    locked: 0
+  - name: Block
+    uniqueID: 2494971979
+    locked: 0
+  - name: UI
+    uniqueID: 4086813705
+    locked: 0
